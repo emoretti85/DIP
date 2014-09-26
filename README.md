@@ -1,4 +1,0 @@
-DIP
-===
-
-DIP Classes
